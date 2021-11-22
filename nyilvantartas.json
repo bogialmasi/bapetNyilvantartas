@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "tipus": 1,
+    "megnevezes": "villanyszamla",
+    "osszeg": 8000
+},
+{
+    "id": 2,
+    "tipus": 1,
+    "megnevezes": "alberleti dij",
+    "osszeg": 80000
+},
+{
+    "id": 3,
+    "tipus": 1,
+    "megnevezes": "tankolas",
+    "osszeg": 6000
+},
+{
+    "id": 4,
+    "tipus": 1,
+    "megnevezes": "cipo",
+    "osszeg": 18000
+},
+{
+    "id": 5,
+    "tipus": 1,
+    "megnevezes": "meleg viz",
+    "osszeg": 5000
+},
+{
+    "id": 6,
+    "tipus": 1,
+    "megnevezes": "teli gumi",
+    "osszeg": 40000
+},
+{
+    "id": 7,
+    "tipus": 2,
+    "megnevezes": "marcius fizetes",
+    "osszeg": 390000
+},
+{
+    "id": 7,
+    "tipus": 2,
+    "megnevezes": "aprilis fizetes",
+    "osszeg": 420000
+}]
